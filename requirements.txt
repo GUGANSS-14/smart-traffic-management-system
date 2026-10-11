@@ -1,0 +1,26 @@
+# ==============================================================================
+# Requirements - Smart Traffic Management & Discrete Mathematics System
+# Compatible with Python 3.10 - 3.14+
+# ==============================================================================
+
+# Core Framework & Multi-Page Web Dashboard
+streamlit>=1.35.0
+
+# Computer Vision & Real-Time Video Processing
+# (opencv-python-headless is ideal for server and Streamlit environments;
+#  standard opencv-python can also be used if local desktop GUI display is needed)
+opencv-python-headless>=4.8.0
+
+# Scientific Computing & Hungarian Bipartite Matching
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Graph Theory, Network Modeling & Discrete Mathematics
+networkx>=3.0
+
+# Interactive Analytical & Geometric Visualizations
+plotly>=5.18.0
+
+# Automated Test Suite & Quality Assurance
+pytest>=7.4.0
