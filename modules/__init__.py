@@ -1,7 +1,9 @@
+
 """
 Smart Traffic Management System - Core Modules
 AI-based traffic analytics and graph-theoretic optimization.
 """
+
 
 from .vehicle_detector import VehicleDetector, Detection
 from .video_processor import VideoProcessor, SyntheticTrafficStream
