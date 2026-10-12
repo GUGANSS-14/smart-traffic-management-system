@@ -24,4 +24,4 @@ plotly>=5.18.0
 
 # Automated Test Suite & Quality Assurance
 pytest>=7.4.0
-openpxl
+openpyxl
